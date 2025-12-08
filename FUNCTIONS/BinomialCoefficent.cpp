@@ -18,6 +18,6 @@ int nCr(int n, int r){
 }
 
 int main(){
-    cout<<"binominal coefficent of n & r is : "<<nCr(8,2);
+    cout<<"binominal coefficent of n & r is : "<<nCr(8,2); 
     return 0;
 }
